@@ -1,2 +1,3 @@
-pwd
+script_location=$pwd
+
 
